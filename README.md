@@ -7,7 +7,7 @@ This project aims to predict the survival of passengers aboard the Titanic using
 - [Usage](#usage)
 
 ## Dataset
-The dataset used for this project is the famous Titanic dataset, which contains information about passengers aboard the Titanic, including features like age, sex, passenger class, and whether they survived or not. The dataset is included in the `titanic_ml_prediction/dataset` directory. The dataset can be downloaded from the Kaggle website.
+The dataset used for this project is the famous Titanic dataset, which contains information about passengers aboard the Titanic, including features like age, sex, passenger class, and whether they survived or not. The dataset is included in the 'T_files' directory. The dataset can be downloaded from the Kaggle website.
 
 ## Installation
 Clone the repository:
